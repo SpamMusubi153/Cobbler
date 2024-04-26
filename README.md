@@ -33,8 +33,7 @@ https://ai.google.dev/
 
 2. Run the **Save API Key** shortcut below to save a copy of your key to your device. This should only have to be done once when you setup each device, or if you need to manually change your API Key.
 
->> If you want to do this manually, you can copy and save your API key to a file called "Key.txt" at the following path:
->> 
+>> If you want to do this manually, you can copy and save your API key to a file called "Key.txt" at the following path: 
 >>iCloud Drive > Apps > Gemini > Preferences > Key.txt
 
 3. Follow the instructions below for either running the **Gemini Basic** or **Gemini Conversations** shortcut.
