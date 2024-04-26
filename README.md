@@ -44,17 +44,17 @@ https://ai.google.dev/
 
 ## The Shortcuts
 
-### [Save API Key 1.0](https://github.com/SpamMusubi153/Cobbler/blob/main/Save%20API%20Key/Cobbler%20%7C%20Save%20API%20Key%201.0.shortcut)
+### [Save API Key 1.0](https://github.com/SpamMusubi153/Cobbler/raw/main/Save%20API%20Key/Cobbler%20%7C%20Save%20API%20Key%201.0.shortcut)
 
 This shortcut helps you save your Gemini API Key to a device.
 
 
-### [Gemini Basic 1.0](https://github.com/SpamMusubi153/Cobbler/blob/main/Gemini%20Basic/Cobbler%20%7C%20Gemini%20Basic%201.0.shortcut)
+### [Gemini Basic 1.0](https://github.com/SpamMusubi153/Cobbler/raw/main/Gemini%20Basic/Cobbler%20%7C%20Gemini%20Basic%201.0.shortcut)
 
 This shortcut enables single-turn conversations with Gemini. It can be used directly by a user, immediately displaying Gemini's response and copying it to the clipboard. It can also respond to a text prompt from another shortcut, providing Gemini's response as the shortcut's response.
 
 
-### [Gemini Conversations 2.0](https://github.com/SpamMusubi153/Cobbler/blob/main/Gemini%20Conversations/Cobbler%20%7C%20Gemini%20Conversations%202.0.shortcut)
+### [Gemini Conversations 2.0](https://github.com/SpamMusubi153/Cobbler/raw/main/Gemini%20Conversations/Cobbler%20%7C%20Gemini%20Conversations%202.1.shortcut)
 
 This shortcut enables multi-turn Gemini conversations with separate conversation histories. It must be run by another shortcut which passes in a dictionary with the following three items:
 
