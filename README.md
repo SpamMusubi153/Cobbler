@@ -43,4 +43,16 @@ https://ai.google.dev/
 
 ---
 
+
+### Save API Key 1.0
+
+This shortcut helps you save your Gemini API Key to a device.
+
+
+### Gemini Basic 1.0
+
+This shortcut 
+
+### Gemini Conversations 2.0
+
 ### The shortcuts are on their way, and will be here shortly!
