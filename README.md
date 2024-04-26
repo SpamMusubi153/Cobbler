@@ -63,3 +63,9 @@ This shortcut enables multi-turn Gemini conversations with separate conversation
 - A "system_instruction" that can contain conversation-style directives and instructions to Gemini that can help guide its response.
 
 The shortcut then automatically saves the conversation history and returns Gemini's text response.
+
+<br>
+
+<noscript><a href="https://liberapay.com/MusubiToTheMax/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+Thank you for stopping by! At this time, I am still working through college. If you found this project helpful, I would appreciate any support you are able to lend.
