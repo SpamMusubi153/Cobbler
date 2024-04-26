@@ -64,6 +64,8 @@ This shortcut enables multi-turn Gemini conversations with separate conversation
 
 The shortcut then automatically saves the conversation history and returns Gemini's text response.
 
+<br>
+
 ---
 
 <br>
